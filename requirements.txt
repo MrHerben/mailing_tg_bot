@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+aiomysql
+apscheduler
+python-dotenv
